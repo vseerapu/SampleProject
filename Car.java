@@ -52,5 +52,9 @@ public class Car {
     public void setMiles(int miles) {
         this.miles = miles;
     }
+    
+    public void m1() {
+    	System.out.println("Creating m1() method for git testing");
+    }
 
 }
