@@ -52,5 +52,9 @@ public class Car {
     public void setMiles(int miles) {
         this.miles = miles;
     }
+    
+    public void m2(){
+        System.out.println("get push updating m2() method on the github sampleproject");
+    }
 
 }
